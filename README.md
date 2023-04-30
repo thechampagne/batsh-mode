@@ -2,6 +2,11 @@
 
 Syntax highlighting for the Batsh programming language in Emacs. Requires Emacs 24.3 or later.
 
+
+## Screenshot
+
+<img src="https://raw.githubusercontent.com/thechampagne/batsh-mode/main/.github/assets/screenshot.png" width="500"/>
+
 ## Installation
 
 You can use built-in package manager (package.el) or do everything by your hands.
